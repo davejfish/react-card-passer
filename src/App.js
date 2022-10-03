@@ -61,6 +61,7 @@ function App() {
         />
         <CardList
           player={'deck'}
+          cards={deck}
         />
       </section>
       <section>
